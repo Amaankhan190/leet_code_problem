@@ -27,6 +27,7 @@
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
+| [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
@@ -40,4 +41,12 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
+## Two Pointers
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
+## String
+|  |
+| ------- |
+| [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
