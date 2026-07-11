@@ -23,10 +23,19 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
+## Math
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
+## Memoization
+|  |
+| ------- |
+| [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 <!---LeetCode Topics End-->
