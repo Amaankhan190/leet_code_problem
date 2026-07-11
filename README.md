@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan190/leet_code_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
+| [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
 ## Breadth-First Search
 |  |
 | ------- |
