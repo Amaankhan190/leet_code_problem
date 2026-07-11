@@ -25,6 +25,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
+| [0091-decode-ways](https://github.com/Amaankhan190/leet_code_problem/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
@@ -48,5 +49,6 @@
 ## String
 |  |
 | ------- |
+| [0091-decode-ways](https://github.com/Amaankhan190/leet_code_problem/tree/master/0091-decode-ways) |
 | [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
 <!---LeetCode Topics End-->
