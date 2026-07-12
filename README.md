@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
+| [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
 | ------- |
@@ -52,5 +53,10 @@
 |  |
 | ------- |
 | [0091-decode-ways](https://github.com/Amaankhan190/leet_code_problem/tree/master/0091-decode-ways) |
+| [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
+## Simulation
+|  |
+| ------- |
+| [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 <!---LeetCode Topics End-->
