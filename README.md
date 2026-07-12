@@ -29,6 +29,7 @@
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0091-decode-ways](https://github.com/Amaankhan190/leet_code_problem/tree/master/0091-decode-ways) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
+| [0343-integer-break](https://github.com/Amaankhan190/leet_code_problem/tree/master/0343-integer-break) |
 | [0377-combination-sum-iv](https://github.com/Amaankhan190/leet_code_problem/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
@@ -44,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Amaankhan190/leet_code_problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Amaankhan190/leet_code_problem/tree/master/0171-excel-sheet-column-number) |
+| [0343-integer-break](https://github.com/Amaankhan190/leet_code_problem/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 ## Memoization
 |  |
