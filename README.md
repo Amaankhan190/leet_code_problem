@@ -45,6 +45,7 @@
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0168-excel-sheet-column-title](https://github.com/Amaankhan190/leet_code_problem/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/Amaankhan190/leet_code_problem/tree/master/0171-excel-sheet-column-number) |
+| [0172-factorial-trailing-zeroes](https://github.com/Amaankhan190/leet_code_problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/Amaankhan190/leet_code_problem/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 ## Memoization
