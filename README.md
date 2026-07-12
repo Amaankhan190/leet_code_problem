@@ -18,6 +18,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan190/leet_code_problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0069-sqrtx](https://github.com/Amaankhan190/leet_code_problem/tree/master/0069-sqrtx) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -39,6 +40,7 @@
 ## Math
 |  |
 | ------- |
+| [0069-sqrtx](https://github.com/Amaankhan190/leet_code_problem/tree/master/0069-sqrtx) |
 | [0070-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0070-climbing-stairs) |
 | [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 ## Memoization
