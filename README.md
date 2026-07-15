@@ -6,6 +6,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan190/leet_code_problem/tree/master/0004-median-of-two-sorted-arrays) |
+| [0134-gas-station](https://github.com/Amaankhan190/leet_code_problem/tree/master/0134-gas-station) |
 | [0322-coin-change](https://github.com/Amaankhan190/leet_code_problem/tree/master/0322-coin-change) |
 | [0377-combination-sum-iv](https://github.com/Amaankhan190/leet_code_problem/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
@@ -88,4 +89,8 @@
 | ------- |
 | [0144-binary-tree-preorder-traversal](https://github.com/Amaankhan190/leet_code_problem/tree/master/0144-binary-tree-preorder-traversal) |
 | [0145-binary-tree-postorder-traversal](https://github.com/Amaankhan190/leet_code_problem/tree/master/0145-binary-tree-postorder-traversal) |
+## Greedy
+|  |
+| ------- |
+| [0134-gas-station](https://github.com/Amaankhan190/leet_code_problem/tree/master/0134-gas-station) |
 <!---LeetCode Topics End-->
