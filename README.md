@@ -11,15 +11,18 @@
 | [0377-combination-sum-iv](https://github.com/Amaankhan190/leet_code_problem/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0001-two-sum) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Amaankhan190/leet_code_problem/tree/master/0004-median-of-two-sorted-arrays) |
 | [0069-sqrtx](https://github.com/Amaankhan190/leet_code_problem/tree/master/0069-sqrtx) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -49,6 +52,7 @@
 | [0172-factorial-trailing-zeroes](https://github.com/Amaankhan190/leet_code_problem/tree/master/0172-factorial-trailing-zeroes) |
 | [0343-integer-break](https://github.com/Amaankhan190/leet_code_problem/tree/master/0343-integer-break) |
 | [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Memoization
 |  |
 | ------- |
@@ -93,4 +97,20 @@
 |  |
 | ------- |
 | [0134-gas-station](https://github.com/Amaankhan190/leet_code_problem/tree/master/0134-gas-station) |
+## Combinatorics
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Counting
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Number Theory
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Prefix Sum
+|  |
+| ------- |
+| [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 <!---LeetCode Topics End-->
