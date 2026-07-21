@@ -71,6 +71,7 @@
 | [0171-excel-sheet-column-number](https://github.com/Amaankhan190/leet_code_problem/tree/master/0171-excel-sheet-column-number) |
 | [0412-fizz-buzz](https://github.com/Amaankhan190/leet_code_problem/tree/master/0412-fizz-buzz) |
 | [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Amaankhan190/leet_code_problem/tree/master/3499-maximize-active-section-with-trade-i) |
 ## Simulation
 |  |
 | ------- |
@@ -116,4 +117,8 @@
 |  |
 | ------- |
 | [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
+## Enumeration
+|  |
+| ------- |
+| [3499-maximize-active-section-with-trade-i](https://github.com/Amaankhan190/leet_code_problem/tree/master/3499-maximize-active-section-with-trade-i) |
 <!---LeetCode Topics End-->
