@@ -11,6 +11,7 @@
 | [0377-combination-sum-iv](https://github.com/Amaankhan190/leet_code_problem/tree/master/0377-combination-sum-iv) |
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
+| [0879-profitable-schemes](https://github.com/Amaankhan190/leet_code_problem/tree/master/0879-profitable-schemes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amaankhan190/leet_code_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
@@ -39,6 +40,7 @@
 | [0416-partition-equal-subset-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0416-partition-equal-subset-sum) |
 | [0647-palindromic-substrings](https://github.com/Amaankhan190/leet_code_problem/tree/master/0647-palindromic-substrings) |
 | [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
+| [0879-profitable-schemes](https://github.com/Amaankhan190/leet_code_problem/tree/master/0879-profitable-schemes) |
 ## Breadth-First Search
 |  |
 | ------- |
