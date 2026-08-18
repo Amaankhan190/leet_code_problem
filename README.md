@@ -13,11 +13,13 @@
 | [0746-min-cost-climbing-stairs](https://github.com/Amaankhan190/leet_code_problem/tree/master/0746-min-cost-climbing-stairs) |
 | [0879-profitable-schemes](https://github.com/Amaankhan190/leet_code_problem/tree/master/0879-profitable-schemes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Amaankhan190/leet_code_problem/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Amaankhan190/leet_code_problem/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Amaankhan190/leet_code_problem/tree/master/0001-two-sum) |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Amaankhan190/leet_code_problem/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Binary Search
 |  |
@@ -109,6 +111,7 @@
 ## Counting
 |  |
 | ------- |
+| [3005-count-elements-with-maximum-frequency](https://github.com/Amaankhan190/leet_code_problem/tree/master/3005-count-elements-with-maximum-frequency) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Amaankhan190/leet_code_problem/tree/master/3312-sorted-gcd-pair-queries) |
 ## Number Theory
 |  |
